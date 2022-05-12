@@ -30,7 +30,6 @@ Install required libraries [pip install yahoo-finnance]. Import python libraries
 
 ## Usage
 
-Create a personal financial planner that allows and invidual to visualize savings between assets.
-Create a retirement planning tool that uses Monte Carlo Simulations to project performance for the next 30years and 10yrs.
+Create a personal financial progam that would allow a user to select the opportunity to receive sms and or emiail for current price changes using SMA and LMA.
 
 ## Contributors
