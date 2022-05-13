@@ -30,7 +30,11 @@ Install required libraries [pip install yahoo-finnance]. Import python libraries
 
 ## Usage
 
-Create a personal financial program that would allow a user to select the opportunity to receive sms and or email for current price changes using SMA and LMA.
+Create a personal view of financial analysis with two main indices S&P 500 and NASDAQ with two crypto currencies BTC-USD and ETH-USD. The program would allow a user to view the SMA and LMA of tickers.
+
+example:
+![btc_ma](https://user-images.githubusercontent.com/101314548/168203821-d667cdbd-4985-4544-94bd-85a8b966d8d4.png)
+
 
 Master code would be [ StockBot_Master copy.ipynb ]
 
