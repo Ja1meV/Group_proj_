@@ -32,6 +32,8 @@ Install required libraries [pip install yahoo-finnance]. Import python libraries
 
 Create a personal financial program that would allow a user to select the opportunity to receive sms and or email for current price changes using SMA and LMA.
 
+Master code would be [ StockBot_Master copy.ipynb ]
+
 ## Contributors
 Todd Garner,
 Catherine Logan,
